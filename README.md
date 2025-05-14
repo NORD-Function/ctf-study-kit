@@ -2,6 +2,17 @@ Este repositório reúne exploits, scripts, write-ups e recursos úteis voltados
 
 A proposta é oferecer uma base prática de estudos com materiais organizados, scripts prontos para uso e explicações detalhadas sobre vulnerabilidades reais exploradas em ambientes controlados de CTF.
 
+*em diversos ctfs é possivel usar um server local para fazer download dosexploits na maquina alvo, e o seerverr simples é assim
+
+import http.server
+import socketserver
+
+PORT = 8000
+Handler = http.server.SimpleHTTPRequestHandler
+
+with socketserver.TCPServer(("", PORT), Handler) as httpd:
+    print("Servidor ativo na porta", PORT)
+    httpd.serve_forever()
 
 | Nome                  | Descrição                                             | Link                                                                 |
 | --------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- |
