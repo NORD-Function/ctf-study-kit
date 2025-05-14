@@ -40,6 +40,7 @@ Windows Privilege Escalation
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
 
 ⚠️ Aviso Legal
-Todo o conteúdo deste repositório é para fins educacionais e de pesquisa em ambientes controlados.
-Não utilize qualquer técnica ou script contido aqui contra sistemas reais sem autorização explícita.
-Você é o único responsável pelo uso indevido das informações contidas neste repositório.
+Este repositório é exclusivamente para fins educacionais e laboratoriais.
+Não use nenhuma ferramenta ou técnica aqui listada em sistemas que você não possui ou não tem autorização explícita para testar.
+O uso indevido é de total responsabilidade do usuário.
+Este material tem o objetivo de educar e capacitar profissionais de segurança.
