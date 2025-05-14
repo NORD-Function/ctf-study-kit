@@ -2,20 +2,26 @@ Este repositório reúne exploits, scripts, write-ups e recursos úteis voltados
 
 A proposta é oferecer uma base prática de estudos com materiais organizados, scripts prontos para uso e explicações detalhadas sobre vulnerabilidades reais exploradas em ambientes controlados de CTF.
 
-🔗 Recursos Úteis
-Exploit-DB
+.
+
+🔗 Bases de Dados de Exploits e Vulnerabilidades
+Exploit Database (Exploit-DB)
+Repositório público mantido pela Offensive Security com exploits e provas de conceito.
+🔗 https://www.exploit-db.com/:contentReference[oaicite:3]{index=3}
 
 Packet Storm Security
+Arquivo com ferramentas de segurança, exploits e boletins de vulnerabilidades.
+🔗 https://packetstormsecurity.com/:contentReference[oaicite:7]{index=7}
 
 CXSecurity
+Base de dados com exploits, bugs e dorks para pesquisa de vulnerabilidades.
+🔗 https://cxsecurity.com/:contentReference[oaicite:11]{index=11}
 
 CVE Details
+Informações detalhadas sobre vulnerabilidades conhecidas (Common Vulnerabilities and Exposures).
+🔗 https://www.cvedetails.com/:contentReference[oaicite:15]{index=15}
 
-PayloadAllTheThings
 
-HackTricks
-
-GTFOBins
 
 🤝 Contribuindo
 Você pode contribuir com:
