@@ -2,7 +2,6 @@ Este repositório reúne exploits, scripts, write-ups e recursos úteis voltados
 
 A proposta é oferecer uma base prática de estudos com materiais organizados, scripts prontos para uso e explicações detalhadas sobre vulnerabilidades reais exploradas em ambientes controlados de CTF.
 
-.
 
 🔗 Bases de Dados de Exploits e Vulnerabilidades
 Exploit Database (Exploit-DB)
