@@ -23,27 +23,36 @@ Informações detalhadas sobre vulnerabilidades conhecidas (Common Vulnerabiliti
 
 
 
-🤝 Contribuindo
-Você pode contribuir com:
+🧰 Repositórios de Payloads e Cheatsheets
+Payloads All The Things
+Coleção extensa de payloads e técnicas para exploração de vulnerabilidades web e outras.
+🔗 https://github.com/swisskyrepo/PayloadsAllTheThings:contentReference[oaicite:19]{index=19}
 
-Novos scripts de exploits.
+HackTricks
+Guia abrangente com técnicas de hacking, escalonamento de privilégios e pós-exploração.
+🔗 https://book.hacktricks.xyz/:contentReference[oaicite:23]{index=23}
 
-Write-ups de desafios.
+GTFOBins
+Lista de binários Unix que podem ser explorados para escalonamento de privilégios e evasão de restrições.
+🔗 https://gtfobins.github.io/:contentReference[oaicite:27]{index=27}
 
-Referências de recursos públicos.
+📚 Outros Recursos Úteis
+Reverse Shell Cheatsheet
+Referência rápida para criação de shells reversas em diferentes linguagens e contextos.
+🔗 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md:contentReference[oaicite:31]{index=31}
 
-Cheatsheets e notas técnicas.
+Windows Privilege Escalation
+Guia detalhado sobre técnicas de escalonamento de privilégios no Windows.
+🔗 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md:contentReference[oaicite:35]{index=35}
 
-Como contribuir:
-Faça um fork do projeto
+MySQL Injection
+Informações e técnicas para exploração de injeção SQL em bancos de dados MySQL.
+🔗 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MySQL%20Injection.md:contentReference[oaicite:39]{index=39}
 
-Crie uma branch: git checkout -b minha-feature
+Server Side Template Injection (SSTI)
+Explicação e exemplos de exploração de injeção de templates no lado do servidor.
+🔗 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md:contentReference[oaicite:43]{index=43}
 
-Commit suas alterações: git commit -m 'Adicionando novo exploit'
-
-Push para a branch: git push origin minha-feature
-
-Crie um Pull Request
 
 ⚠️ Aviso Legal
 Todo o conteúdo deste repositório é para fins educacionais e de pesquisa em ambientes controlados.
